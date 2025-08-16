@@ -95,13 +95,16 @@ g++ main.cpp src/*.cpp -I include -o build/judge_system -std=c++17
 ### Flow Diagrams
 
 * Login Flow
-  ![Login Flow](./images/example1.png)
+
+![Login Flow](./images/example1.png)
 
 * Main Menu Flow
-  ![Main Menu Flow](./images/example2.png)
+
+![Main Menu Flow](./images/example2.png)
 
 * Code Submission Flow
-  ![Code Submission Flow](./images/example3.png)
+
+![Code Submission Flow](./images/example3.png)
 
 ---
 
@@ -144,4 +147,5 @@ g++ main.cpp src/*.cpp -I include -o build/judge_system -std=c++17
   * Retry loops to prevent crashes from invalid input
 
 ```
+
 
