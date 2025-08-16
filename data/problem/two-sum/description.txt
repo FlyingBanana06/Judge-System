@@ -1,0 +1,7 @@
+Read two integers and print their sum.
+
+Input:
+- Two integers a and b.
+
+Output:
+- A single integer: the sum of a and b.

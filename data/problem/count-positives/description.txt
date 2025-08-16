@@ -1,0 +1,12 @@
+Read an integer n and then n integers, and print how many of them are positive.
+
+Input:
+- An integer n, the number of integers.
+- n integers separated by spaces.
+- e.g.
+  6
+  -3 0 5 9 -1 2
+
+Output:
+- A single integer: the number of positive integers.
+- e.g. 3

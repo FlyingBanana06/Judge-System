@@ -1,0 +1,13 @@
+Read an integer n and then n integers, and print the sum of all even integers.
+
+Input:
+- An integer n, the number of integers.
+- n integers separated by spaces.
+- e.g.
+  6
+  4 7 2 9 10 3
+
+Output:
+- A single integer: the sum of all even integers among the given integers.
+- e.g.
+  16

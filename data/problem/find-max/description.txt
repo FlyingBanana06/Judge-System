@@ -1,0 +1,13 @@
+Read an integer n and then n integers, and print the largest integer.
+
+Input:
+- An integer n, the number of integers.
+- n integers separated by spaces.
+- e.g.
+  5
+  3 9 1 4 7
+
+Output:
+- A single integer: the largest value among the given integers.
+- e.g.
+  9
