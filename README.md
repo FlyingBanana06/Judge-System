@@ -14,7 +14,6 @@ This project is an extended and refactored version of a classroom assignment, en
 ## 📂 Project Structure
 
 ```
-
 .
 ├── data/
 │   ├── problem/
@@ -23,8 +22,9 @@ This project is an extended and refactored version of a classroom assignment, en
 │   │   │   ├── description.txt  # Problem description
 │   │   └── problems.csv         # Problem metadata
 │   ├── user/
+│   │   ├── program/             # # User-submitted code
+│   │   ├── user_output.txt      # Program output from user submission
 │   │   ├── users.csv            # User account data
-│   │   ├── user\_output.txt      # Program output from user submission
 │
 ├── include/                     # All .hpp header files
 │   ├── Account.hpp
@@ -43,10 +43,8 @@ This project is an extended and refactored version of a classroom assignment, en
 │   ├── judge\_system.exe
 │   └── judge\_exec.exe
 │
-├── test/                        # User-submitted code
 ├── README.md
 └── main.cpp
-
 ```
 
 ---
@@ -146,3 +144,4 @@ g++ main.cpp src/*.cpp -I include -o build/judge_system -std=c++17
   * Retry loops to prevent crashes from invalid input
 
 ```
+
