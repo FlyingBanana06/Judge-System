@@ -40,8 +40,8 @@ This project is an extended and refactored version of a classroom assignment, en
 │   └── Utils.cpp
 │
 ├── build/                       # Compiled executables
-│   ├── judge\_system.exe
-│   └── judge\_exec.exe
+│   ├── judge_system.exe
+│   └── user_program.exe
 │
 ├── README.md
 └── main.cpp
@@ -147,5 +147,6 @@ g++ main.cpp src/*.cpp -I include -o build/judge_system -std=c++17
   * Retry loops to prevent crashes from invalid input
 
 ```
+
 
 
